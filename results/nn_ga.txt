@@ -1,0 +1,24 @@
+===========Genetic Algorithms 0 =========
+Train Error: 32.506% 
+Test Error: 29.865% 
+Time Elapsed: 1.270 s 
+===========Genetic Algorithms 10 =========
+Train Error: 30.687% 
+Test Error: 28.324% 
+Time Elapsed: 4.617 s 
+===========Genetic Algorithms 20 =========
+Train Error: 30.687% 
+Test Error: 28.324% 
+Time Elapsed: 7.797 s 
+===========Genetic Algorithms 30 =========
+Train Error: 30.521% 
+Test Error: 28.131% 
+Time Elapsed: 11.480 s 
+===========Genetic Algorithms 40 =========
+Train Error: 30.687% 
+Test Error: 28.324% 
+Time Elapsed: 14.390 s 
+===========Genetic Algorithms 50 =========
+Train Error: 30.604% 
+Test Error: 28.516% 
+Time Elapsed: 18.005 s 

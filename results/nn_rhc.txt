@@ -1,0 +1,84 @@
+===========Randomized Hill Climbing 0 =========
+Train Error: 91.894% 
+Test Error: 92.100% 
+Time Elapsed: 0.020 s 
+===========Randomized Hill Climbing 100 =========
+Train Error: 30.687% 
+Test Error: 28.324% 
+Time Elapsed: 0.419 s 
+===========Randomized Hill Climbing 200 =========
+Train Error: 30.687% 
+Test Error: 28.131% 
+Time Elapsed: 0.775 s 
+===========Randomized Hill Climbing 300 =========
+Train Error: 34.905% 
+Test Error: 31.599% 
+Time Elapsed: 1.146 s 
+===========Randomized Hill Climbing 400 =========
+Train Error: 27.213% 
+Test Error: 26.204% 
+Time Elapsed: 1.529 s 
+===========Randomized Hill Climbing 500 =========
+Train Error: 23.077% 
+Test Error: 22.543% 
+Time Elapsed: 1.902 s 
+===========Randomized Hill Climbing 600 =========
+Train Error: 21.340% 
+Test Error: 22.543% 
+Time Elapsed: 2.272 s 
+===========Randomized Hill Climbing 700 =========
+Train Error: 25.724% 
+Test Error: 24.277% 
+Time Elapsed: 2.654 s 
+===========Randomized Hill Climbing 800 =========
+Train Error: 23.904% 
+Test Error: 22.929% 
+Time Elapsed: 3.046 s 
+===========Randomized Hill Climbing 900 =========
+Train Error: 22.084% 
+Test Error: 21.195% 
+Time Elapsed: 3.423 s 
+===========Randomized Hill Climbing 1000 =========
+Train Error: 27.295% 
+Test Error: 25.048% 
+Time Elapsed: 3.788 s 
+===========Randomized Hill Climbing 1100 =========
+Train Error: 21.505% 
+Test Error: 21.580% 
+Time Elapsed: 4.434 s 
+===========Randomized Hill Climbing 1200 =========
+Train Error: 17.535% 
+Test Error: 18.112% 
+Time Elapsed: 4.537 s 
+===========Randomized Hill Climbing 1300 =========
+Train Error: 19.520% 
+Test Error: 18.497% 
+Time Elapsed: 4.947 s 
+===========Randomized Hill Climbing 1400 =========
+Train Error: 18.445% 
+Test Error: 18.882% 
+Time Elapsed: 5.313 s 
+===========Randomized Hill Climbing 1500 =========
+Train Error: 18.197% 
+Test Error: 18.112% 
+Time Elapsed: 5.695 s 
+===========Randomized Hill Climbing 1600 =========
+Train Error: 20.347% 
+Test Error: 18.304% 
+Time Elapsed: 6.063 s 
+===========Randomized Hill Climbing 1700 =========
+Train Error: 19.355% 
+Test Error: 19.268% 
+Time Elapsed: 6.437 s 
+===========Randomized Hill Climbing 1800 =========
+Train Error: 19.189% 
+Test Error: 18.882% 
+Time Elapsed: 6.819 s 
+===========Randomized Hill Climbing 1900 =========
+Train Error: 15.136% 
+Test Error: 15.800% 
+Time Elapsed: 7.176 s 
+===========Randomized Hill Climbing 2000 =========
+Train Error: 18.280% 
+Test Error: 18.690% 
+Time Elapsed: 7.583 s

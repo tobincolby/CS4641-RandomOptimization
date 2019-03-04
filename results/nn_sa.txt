@@ -1,0 +1,84 @@
+===========Simulated Annealing 0 =========
+Train Error: 60.877% 
+Test Error: 57.418% 
+Time Elapsed: 0.013 s 
+===========Simulated Annealing 100 =========
+Train Error: 96.195% 
+Test Error: 95.568% 
+Time Elapsed: 0.392 s 
+===========Simulated Annealing 200 =========
+Train Error: 56.493% 
+Test Error: 52.601% 
+Time Elapsed: 0.769 s 
+===========Simulated Annealing 300 =========
+Train Error: 78.495% 
+Test Error: 77.071% 
+Time Elapsed: 1.149 s 
+===========Simulated Annealing 400 =========
+Train Error: 59.801% 
+Test Error: 56.840% 
+Time Elapsed: 1.526 s 
+===========Simulated Annealing 500 =========
+Train Error: 96.443% 
+Test Error: 95.568% 
+Time Elapsed: 1.896 s 
+===========Simulated Annealing 600 =========
+Train Error: 45.823% 
+Test Error: 46.821% 
+Time Elapsed: 2.276 s 
+===========Simulated Annealing 700 =========
+Train Error: 35.318% 
+Test Error: 31.407% 
+Time Elapsed: 2.685 s 
+===========Simulated Annealing 800 =========
+Train Error: 95.864% 
+Test Error: 96.917% 
+Time Elapsed: 3.036 s 
+===========Simulated Annealing 900 =========
+Train Error: 68.156% 
+Test Error: 72.254% 
+Time Elapsed: 3.418 s 
+===========Simulated Annealing 1000 =========
+Train Error: 95.699% 
+Test Error: 96.724% 
+Time Elapsed: 3.800 s 
+===========Simulated Annealing 1100 =========
+Train Error: 78.412% 
+Test Error: 77.457% 
+Time Elapsed: 4.171 s 
+===========Simulated Annealing 1200 =========
+Train Error: 95.616% 
+Test Error: 96.532% 
+Time Elapsed: 4.551 s 
+===========Simulated Annealing 1300 =========
+Train Error: 91.315% 
+Test Error: 91.329% 
+Time Elapsed: 4.937 s 
+===========Simulated Annealing 1400 =========
+Train Error: 73.201% 
+Test Error: 72.832% 
+Time Elapsed: 5.302 s 
+===========Simulated Annealing 1500 =========
+Train Error: 75.765% 
+Test Error: 76.686% 
+Time Elapsed: 5.685 s 
+===========Simulated Annealing 1600 =========
+Train Error: 48.801% 
+Test Error: 45.472% 
+Time Elapsed: 6.049 s 
+===========Simulated Annealing 1700 =========
+Train Error: 51.365% 
+Test Error: 47.592% 
+Time Elapsed: 6.445 s 
+===========Simulated Annealing 1800 =========
+Train Error: 78.164% 
+Test Error: 79.769% 
+Time Elapsed: 6.831 s 
+===========Simulated Annealing 1900 =========
+Train Error: 96.609% 
+Test Error: 97.303% 
+Time Elapsed: 7.204 s 
+===========Simulated Annealing 2000 =========
+Train Error: 75.434% 
+Test Error: 76.879% 
+Time Elapsed: 7.597 s
