@@ -1,5 +1,7 @@
 To run the analysis, download ABAGAIL and download my project from the following github link:
 
+https://github.com/tobincolby/CS4641-RandomOptimization
+
 Then, place the java files in the "code"
 directory of this project into "src/opt/test". Additionally, place the files in
 the "data" directory into the "src/opt/test".
